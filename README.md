@@ -1,26 +1,26 @@
 # Anatomy Web Page
 
-## Objetivo del Proyecto
+## Project Objective
 
-El objetivo de este proyecto es crear una página web moderna y atractiva que reproduzca el contenido de la página de Google Sites de Anatomía de la Universidad del Valle:
+The objective of this project is to create a modern and attractive web page that reproduces the content from the Universidad del Valle Anatomy Google Sites page:
 
-🔗 [Página original](https://sites.google.com/correounivalle.edu.co/anatomia/anatom%C3%ADa-humana?authuser=0)
+🔗 [Original page](https://sites.google.com/correounivalle.edu.co/anatomia/anatom%C3%ADa-humana?authuser=0)
 
-## Propósito
+## Purpose
 
-Recrear la funcionalidad y contenido de la página original, pero con un diseño mucho más agradable y atractivo utilizando:
+To recreate the functionality and content of the original page, but with a much more pleasant and attractive design using:
 
-- **HTML** - Para la estructura del contenido
-- **CSS** - Para el diseño visual y la presentación
-- **JavaScript** - Para la interactividad y funcionalidades dinámicas
+- **HTML** - For content structure
+- **CSS** - For visual design and presentation
+- **JavaScript** - For interactivity and dynamic functionalities
 
-El resultado será una experiencia de usuario superior, con mejor diseño visual, navegación más intuitiva y una presentación más moderna del contenido educativo de anatomía.
+The result will be a superior user experience, with better visual design, more intuitive navigation, and a modern presentation of anatomy educational content.
 
-## Estado Actual
+## Current Status
 
-🚧 Proyecto en desarrollo
+🚧 Project in development
 
-## Tecnologías
+## Technologies
 
 - HTML5
 - CSS3
